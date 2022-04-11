@@ -1,0 +1,23 @@
+{
+  "name": "covarianvce-and-contravariance",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "npx ts-node index.ts",
+    "build": "npx tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjkonieczny/covarianvce-and-contravariance.git"
+  },
+  "author": "Mateusz Konieczny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mjkonieczny/covarianvce-and-contravariance/issues"
+  },
+  "homepage": "https://github.com/mjkonieczny/covarianvce-and-contravariance#readme",
+  "devDependencies": {
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
+}
